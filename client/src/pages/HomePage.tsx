@@ -1,4 +1,4 @@
-import { FlexColsLayout, HeaderText } from "sidekick-client"
+import { FlexColsLayout, HeaderText } from "sidekick-client";
 
 const HomePage = () => {
   return (

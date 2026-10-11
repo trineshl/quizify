@@ -18,6 +18,7 @@ client/*.ntvs*
 client/*.njsproj
 client/*.sln
 client/*.sw?
+client/.yalc
 
 backend/dist/
 backend/.yarn/

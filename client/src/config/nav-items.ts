@@ -13,6 +13,11 @@ export const navMenu: NavGroup[] = [
         icon: Home,
         url: 'home',
       },
+      {
+        title: 'Question Templates',
+        icon: Home,
+        url: 'question-templates',
+      },
     ],
   },
   {
